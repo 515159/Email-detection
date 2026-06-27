@@ -1,0 +1,17 @@
+text,label
+"Your account has been suspended. Verify your password immediately by clicking the secure link below.",phishing
+"Congratulations, you won a prize. Send your bank details to claim the reward today.",phishing
+"Urgent action required. Your mailbox storage is full and will be deleted unless you login now.",phishing
+"We detected unusual activity on your account. Confirm your identity with your card number.",phishing
+"Invoice attached for the payment you did not authorize. Open the link to cancel within 24 hours.",phishing
+"Security alert: update your payroll information using the external portal before end of day.",phishing
+"Your package delivery failed. Pay a small redelivery fee using the link provided.",phishing
+"Final warning from IT support. Share your username and password to avoid losing access.",phishing
+"Hi team, the product planning meeting has moved to Thursday at 10 AM in conference room B.",legitimate
+"Please find attached the monthly sales report and let me know if you have any questions.",legitimate
+"Thanks for your message. I will review the document and send feedback by tomorrow afternoon.",legitimate
+"The office will be closed on Monday for the public holiday. Normal hours resume Tuesday.",legitimate
+"Can you approve the updated design draft when you have a moment?",legitimate
+"Your appointment is confirmed for 3 PM. Reply if you need to reschedule.",legitimate
+"Here are the notes from today's client call and the follow up tasks we discussed.",legitimate
+"Lunch order is arriving at noon near the reception desk.",legitimate
