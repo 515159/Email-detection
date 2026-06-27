@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Phishing Email Detection System
 
 A Flask web app that classifies pasted email text as phishing or legitimate using a scikit-learn text classification pipeline.
@@ -60,3 +61,6 @@ python train_model.py --data data/your_dataset.csv
 ## Notes
 
 The included sample dataset is intentionally small so the project can run immediately. For real use, train with a larger public dataset such as Kaggle or UCI phishing email datasets, then review precision, recall, F1 score, and confusion matrix before deployment.
+=======
+# Email-detection
+>>>>>>> 2552c2bb42110162049c86678c4c0ac796997b1b
